@@ -21,7 +21,7 @@ This repository is currently dedicated to forecasting **Significant Wave Height 
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/WIND-WAVE.git
+   git clone https://github.com/Arju-Jawla/WIND-WAVE.git
    ```
 2. Install the required dependencies:
    ```bash
